@@ -1,0 +1,9 @@
+.title{
+    font-size: 78px;
+    color:chocolate;
+    display: flex;
+    justify-content: center;
+}
+body{
+    background-color: rgb(94, 24, 24);
+}
